@@ -12,9 +12,9 @@ I'm Ibragimov Quvonchbek, a passionate Java developer with a strong focus on Spr
 
 🚀 Currently, I'm developing:
 
-GetReady-bot – a Spring Boot-based Telegram bot
-Auction Platform for commercial purposes
-A content-based filtering recommendation system for an auction platform
+GetReady-bot – a Spring Boot-based Telegram bot.
+Auction Platform for commercial purposes.
+A content-based filtering recommendation system for an auction platform.
 💡 When coding, I prefer clear structure, encapsulation, and best practices to ensure efficiency and maintainability.
 
 Always open to collaboration—let’s build something great together! 🚀
