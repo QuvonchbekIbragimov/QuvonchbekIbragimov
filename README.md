@@ -36,6 +36,10 @@ Always open to collaboration—let’s build something great together! 🚀
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=websocket](https://iconduck.com/icons/28131/websocket?shared" alt="icon" width="40" height="40" />
       <br>WebSocket
+    </td>
+    <td align="center" width="96">
+        <img src="https://skillicons.dev/icons?i=firebase" alt="icon" width="40" height="40" />
+      <br>Firebase
     </td> 
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=postgres" alt="icon" width="40" height="40" />
